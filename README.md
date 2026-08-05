@@ -155,9 +155,9 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 
 I write about digital marketing, landing pages, SEO, and putting AI agents to work on growth. Recent work:
 
-- 📬 [Roland Berger — Automotive Newsletter](https://suryathakur999.github.io/roland-berger/newsletters/automotive-newsletter.html)
-- 🖥️ [Roland Berger — IAA MOBILITY 2027 Landing Page](https://suryathakur999.github.io/roland-berger/landing-pages/iaa-mobility-2027.html)
-- 🗂️ [All Roland Berger samples](https://suryathakur999.github.io/roland-berger/)
+- 📬 [My Project — Automotive Newsletter](https://suryathakur999.github.io/roland-berger/newsletters/automotive-newsletter.html)
+- 🖥️ [My Project — IAA MOBILITY 2027 Landing Page](https://suryathakur999.github.io/roland-berger/landing-pages/iaa-mobility-2027.html)
+- 🗂️ [All my project samples](https://suryathakur999.github.io/roland-berger/)
 
 ---
 
