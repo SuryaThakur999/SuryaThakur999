@@ -153,11 +153,11 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-I write about digital marketing, landing pages, SEO, and putting AI agents to work on growth:
+I write about digital marketing, landing pages, SEO, and putting AI agents to work on growth. Recent work:
 
-- [Newsletter](https://YOUR-NEWSLETTER.beehiiv.com/) <!-- TODO: replace with your newsletter URL -->
-- [Medium](https://medium.com/@SuryaThakur999) <!-- TODO: replace with your Medium profile -->
-- [Substack](https://substack.com/@suryathakur999) <!-- TODO: replace with your Substack -->
+- 📬 [Roland Berger — Automotive Newsletter](https://suryathakur999.github.io/roland-berger/newsletters/automotive-newsletter.html)
+- 🖥️ [Roland Berger — IAA MOBILITY 2027 Landing Page](https://suryathakur999.github.io/roland-berger/landing-pages/iaa-mobility-2027.html)
+- 🗂️ [All Roland Berger samples](https://suryathakur999.github.io/roland-berger/)
 
 ---
 
