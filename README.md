@@ -22,7 +22,7 @@
 
 ## About Me
 
-Digital marketer and SEO optimizer who lives on the conversion side of the funnel. I build **landing pages that convert**, write **newsletters people actually open**, ship **websites** that rank, run **social media**, and — more and more — put **AI agents and LLMs** to work on marketing: research, content, publishing, and reporting, automated end to end.
+Digital marketer and SEO optimizer who lives on the conversion side of the funnel. I build **landing pages that convert**, write **newsletters people actually open**, ship **websites** that rank, run **social media**, and more and more  put **AI agents and LLMs** to work on marketing: research, content, publishing, and reporting, automated end to end.
 
 My GitHub is where I turn marketing systems into tools: scrapers that watch what's landing, dashboards that make it skimmable, and automations that run on their own. If it can be measured, I'd rather script it than screenshot it.
 
@@ -38,7 +38,7 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 
 </div>
 
-**[Signals Radar](https://github.com/SuryaThakur999/signals-radar)** is a free, no-API-key scraper that sweeps five corners of AI — **GitHub Trending, Reddit, YouTube, the MCP server registry, and X** — reads the best items in full, and renders them into a single-page dashboard you skim in two minutes and decide what to make. No subscriptions, no metered spend, no AI inside the scraper. Just a tiny deterministic script that fetches so you don't have to doom-scroll.
+**[Signals Radar](https://github.com/SuryaThakur999/signals-radar)** is a free, no-API-key scraper that sweeps five corners of AI **GitHub Trending, Reddit, YouTube, the MCP server registry, and X** reads the best items in full, and renders them into a single-page dashboard you skim in two minutes and decide what to make. No subscriptions, no metered spend, no AI inside the scraper. Just a tiny deterministic script that fetches so you don't have to doom-scroll.
 
 <div align="center">
 
