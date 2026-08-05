@@ -61,32 +61,17 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
   </a>
 </div>
 
-<div align="center">
-  <a href="https://star-history.com/#SuryaThakur999/signals-radar&Date">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SuryaThakur999/signals-radar&type=Date&theme=dark" />
-      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SuryaThakur999/signals-radar&type=Date" />
-      <img alt="Signals Radar star history chart showing growth over time" src="https://api.star-history.com/svg?repos=SuryaThakur999/signals-radar&type=Date" width="700" />
-    </picture>
-  </a>
-</div>
-
 ---
 
 ## Other Open Source Projects
 
 <div align="center">
+  <p><b><a href="https://github.com/SuryaThakur999/gatewayeuropestudy">Gateway to Europe</a></b> — study-abroad landing page for students.</p>
   <a href="https://github.com/SuryaThakur999/gatewayeuropestudy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SuryaThakur999&repo=gatewayeuropestudy&theme=tokyonight&hide_border=true" alt="Gateway to Europe — study abroad landing page" />
+    <img src="https://img.shields.io/github/stars/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Stars&color=FFD700" alt="Gateway to Europe stars" />
+    <img src="https://img.shields.io/github/languages/count/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Languages&color=blue" alt="Gateway to Europe languages" />
+    <img src="https://img.shields.io/github/repo-size/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Repo%20Size&color=green" alt="Gateway to Europe repo size" />
   </a>
-</div>
-
----
-
-## Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SuryaThakur999&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Surya Thakur GitHub trophies — achievements for stars, commits, PRs, issues, followers, and repositories" />
 </div>
 
 ---
@@ -144,8 +129,9 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SuryaThakur999&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Surya Thakur GitHub stats — stars, commits, PRs, and issues" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuryaThakur999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Surya Thakur most used programming languages on GitHub" />
+  <img src="https://img.shields.io/github/followers/SuryaThakur999?style=for-the-badge&label=Followers&color=0e75b6" alt="Surya Thakur GitHub followers" />
+  <img src="https://img.shields.io/github/stars/SuryaThakur999?style=for-the-badge&label=Total%20Stars&color=FFD700" alt="Surya Thakur total GitHub stars" />
+  <img src="https://img.shields.io/github/repo-size/SuryaThakur999/SuryaThakur999?style=for-the-badge&label=Profile%20Repo&color=9cf" alt="Surya Thakur profile repository size" />
 </div>
 
 <div align="center">
