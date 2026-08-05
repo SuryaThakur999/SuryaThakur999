@@ -9,7 +9,7 @@
   <img alt="Surya Thakur — Digital Marketer, SEO Optimizer, and Landing Page Expert" width="160" src="https://github.com/SuryaThakur999.png" style="border-radius: 50%;" />
   <h1><a href="https://github.com/SuryaThakur999"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Surya+Thakur" alt="Surya Thakur" /></a></h1>
   <br /><br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Digital+Marketer+%C2%B7+SEO+Optimizer+%C2%B7+Landing+Page+Expert;AI+Agents+%26+LLMs+for+Marketing;Newsletter+%C2%B7+Websites+%C2%B7+Social+Media;Turning+visitors+into+signups" alt="Surya Thakur — Digital Marketer, SEO Optimizer, Landing Page Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36CF6F&center=true&vCenter=true&width=720&lines=Digital+Marketer+%C2%B7+SEO+Optimizer;Landing+Page+Expert+%C2%B7+Newsletters;Websites+%C2%B7+Social+Media;AI+Agents+%26+LLMs+for+Marketing;Turning+visitors+into+signups" alt="Surya Thakur — Digital Marketer, SEO Optimizer, Landing Page Expert" />
 </div>
 
 <p align="center">
