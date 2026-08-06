@@ -177,7 +177,7 @@ I write about digital marketing, landing pages, SEO, and putting AI agents to wo
 ## Connect
 
 <div align="center">
-  <a href="https://YOUR-WEBSITE.com" target="_blank">
+  <a href="https://suryathakur.framer.website" target="_blank">
     <img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Surya Thakur personal website" />
   </a>
   <a href="https://www.linkedin.com/in/suryathakur999" target="_blank">
@@ -186,13 +186,12 @@ I write about digital marketing, landing pages, SEO, and putting AI agents to wo
   <a href="https://x.com/suryathakur999" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Surya Thakur on X" />
   </a>
-  <a href="https://YOUR-NEWSLETTER.beehiiv.com/" target="_blank">
+  <a href="https://github.com/SuryaThakur999/roland-berger/blob/main/00-README.md" target="_blank">
     <img src="https://img.shields.io/badge/Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Surya Thakur newsletter" />
   </a>
-  <a href="mailto:you@example.com">
+  <a href="mailto:surya.thakur.nh1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Surya Thakur" />
   </a>
-  <!-- TODO: replace the placeholder URLs above with your real website, social, newsletter, and email links -->
 </div>
 
 ---
