@@ -67,7 +67,7 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 
 <div align="center">
 
-**<a href="https://github.com/SuryaThakur999/rivalradar">RivalRadar</a>** — point it at any world competitors, a market, a beat, a niche and it sweeps every other morning into one skimmable dashboard with a trends tab.
+**<a href="https://github.com/SuryaThakur999/rivalradar">Sift</a>** — point it at any world competitors, a market, a beat, a niche and it sweeps every other morning into one skimmable dashboard with a trends tab.
 
 <a href="https://github.com/SuryaThakur999/rivalradar">
   <img src="https://img.shields.io/github/stars/SuryaThakur999/rivalradar?style=for-the-badge&label=Stars&color=FFD700" alt="RivalRadar stars" />
