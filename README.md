@@ -28,7 +28,7 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 
 ---
 
-## Signals Radar — Your AI Signal Feed, on One Page
+## Signals Radar ; Your AI Signal Feed, on One Page
 
 <div align="center">
 
@@ -67,7 +67,7 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 
 <div align="center">
 
-**<a href="https://github.com/SuryaThakur999/rivalradar">RivalRadar</a>** — point it at any world — competitors, a market, a beat, a niche — and it sweeps every other morning into one skimmable dashboard with a trends tab.
+**<a href="https://github.com/SuryaThakur999/rivalradar">RivalRadar</a>** — point it at any world competitors, a market, a beat, a niche and it sweeps every other morning into one skimmable dashboard with a trends tab.
 
 <a href="https://github.com/SuryaThakur999/rivalradar">
   <img src="https://img.shields.io/github/stars/SuryaThakur999/rivalradar?style=for-the-badge&label=Stars&color=FFD700" alt="RivalRadar stars" />
@@ -198,7 +198,7 @@ I write about digital marketing, landing pages, SEO, and putting AI agents to wo
 
 ## Support My Work
 
-If a tool here saved you an hour, feed the dream — the 911 isn't gonna buy itself. 🏎️
+If a tool here saved you an hour, feed the dream the 911 isn't gonna buy itself. 🥹
 
 <div align="center">
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=surya.thakur.nh1@gmail.com&currency_code=USD" target="_blank">
