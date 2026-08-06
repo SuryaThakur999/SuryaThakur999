@@ -66,12 +66,25 @@ My GitHub is where I turn marketing systems into tools: scrapers that watch what
 ## Other Open Source Projects
 
 <div align="center">
-  <p><b><a href="https://github.com/SuryaThakur999/gatewayeuropestudy">Gateway to Europe</a></b> — study-abroad landing page for students.</p>
-  <a href="https://github.com/SuryaThakur999/gatewayeuropestudy">
-    <img src="https://img.shields.io/github/stars/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Stars&color=FFD700" alt="Gateway to Europe stars" />
-    <img src="https://img.shields.io/github/languages/count/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Languages&color=blue" alt="Gateway to Europe languages" />
-    <img src="https://img.shields.io/github/repo-size/SuryaThakur999/gatewayeuropestudy?style=for-the-badge&label=Repo%20Size&color=green" alt="Gateway to Europe repo size" />
-  </a>
+
+**<a href="https://github.com/SuryaThakur999/rivalradar">RivalRadar</a>** — point it at any world — competitors, a market, a beat, a niche — and it sweeps every other morning into one skimmable dashboard with a trends tab.
+
+<a href="https://github.com/SuryaThakur999/rivalradar">
+  <img src="https://img.shields.io/github/stars/SuryaThakur999/rivalradar?style=for-the-badge&label=Stars&color=FFD700" alt="RivalRadar stars" />
+  <img src="https://img.shields.io/github/languages/count/SuryaThakur999/rivalradar?style=for-the-badge&label=Languages&color=blue" alt="RivalRadar languages" />
+  <img src="https://img.shields.io/github/repo-size/SuryaThakur999/rivalradar?style=for-the-badge&label=Repo%20Size&color=green" alt="RivalRadar repo size" />
+</a>
+
+<br />
+
+**<a href="https://github.com/SuryaThakur999/pmo-bot">KAIROS</a>** — the decisive moment, delivered. A RACI deadline tracker that auto-drafts your Outlook reminders and ranks the week on one local dashboard, with a copilot on call.
+
+<a href="https://github.com/SuryaThakur999/pmo-bot">
+  <img src="https://img.shields.io/github/stars/SuryaThakur999/pmo-bot?style=for-the-badge&label=Stars&color=FFD700" alt="KAIROS stars" />
+  <img src="https://img.shields.io/github/languages/count/SuryaThakur999/pmo-bot?style=for-the-badge&label=Languages&color=blue" alt="KAIROS languages" />
+  <img src="https://img.shields.io/github/repo-size/SuryaThakur999/pmo-bot?style=for-the-badge&label=Repo%20Size&color=green" alt="KAIROS repo size" />
+</a>
+
 </div>
 
 ---
@@ -186,11 +199,11 @@ I write about digital marketing, landing pages, SEO, and putting AI agents to wo
 
 ## Support My Work
 
-If any of these projects have helped you, I'd appreciate the support. It keeps the lights on and the repos active.
+If a tool here saved you an hour, feed the dream — the 911 isn't gonna buy itself. 🏎️
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/SuryaThakur999" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Surya Thakur a coffee — support open source development" />
+  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=surya.thakur.nh1@gmail.com&currency_code=USD" target="_blank">
+    <img src="https://img.shields.io/badge/fund%20the%20porsche-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Fund the Porsche — send a few bucks via PayPal" />
   </a>
   <a href="https://github.com/sponsors/SuryaThakur999" target="_blank">
     <img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Surya Thakur on GitHub" />
