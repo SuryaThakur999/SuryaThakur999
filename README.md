@@ -61,7 +61,7 @@ Your accountant gives you the numbers. Yoki tells you what they mean next: cash,
 </td>
 <td width="33%" valign="top">
 
-<a href="https://github.com/SuryaThakur999/signals-radar"><img src="https://raw.githubusercontent.com/SuryaThakur999/signals-radar/main/assets/dashboard-preview.png" alt="Signals Radar dashboard: AI signals from five sources on one page" width="100%" /></a>
+<a href="https://github.com/SuryaThakur999/signals-radar"><img src="assets/signals-radar-preview.png" alt="Signals Radar dashboard: AI signals from five sources on one page" width="100%" /></a>
 
 ### Signals Radar
 **Stop doom-scrolling five feeds to find what's worth making.**
