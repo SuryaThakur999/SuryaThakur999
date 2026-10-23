@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Surya Thakur, founder of Dex and Yoki, builder of Signals Radar">
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glowDex" cx="0.18" cy="0.2" r="0.5">
+      <stop offset="0" stop-color="#ff5a1f" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#ff5a1f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowYoki" cx="0.85" cy="0.9" r="0.55">
+      <stop offset="0" stop-color="#2f6bff" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#2f6bff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .sweep { animation: sweep 9s cubic-bezier(0.77, 0, 0.175, 1) infinite; }
+      .pulse { animation: pulse 2.4s ease-in-out infinite; }
+      @keyframes sweep { 0% { transform: translateX(-420px); } 60%, 100% { transform: translateX(1320px); } }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
+      @media (prefers-reduced-motion: reduce) { .sweep, .pulse { animation: none; } .sweep { opacity: 0; } }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="#0a0a0a"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowDex)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#glowYoki)"/>
+  <rect class="sweep" x="0" y="0" width="360" height="300" fill="url(#sweep)"/>
+
+  <g class="mono" font-size="13" fill="#8a8a8a" letter-spacing="2">
+    <circle class="pulse" cx="66" cy="62" r="4" fill="#22c55e"/>
+    <text x="80" y="67">NOW BUILDING</text>
+    <text x="1140" y="67" text-anchor="end">SURYA THAKUR</text>
+  </g>
+
+  <text class="sans" x="60" y="150" font-size="54" font-weight="700" fill="#f5f5f5" letter-spacing="-1.5">Software that does the boring</text>
+  <text class="sans" x="60" y="208" font-size="54" font-weight="700" fill="#f5f5f5" letter-spacing="-1.5">part of growth <tspan fill="#ff5a1f">for you.</tspan></text>
+
+  <g class="mono" font-size="14" letter-spacing="1">
+    <rect x="60" y="236" width="92" height="30" rx="15" fill="#ff5a1f" fill-opacity="0.12" stroke="#ff5a1f" stroke-opacity="0.55"/>
+    <text x="106" y="256" text-anchor="middle" fill="#ff8a5c">DEX</text>
+    <rect x="164" y="236" width="98" height="30" rx="15" fill="#2f6bff" fill-opacity="0.12" stroke="#2f6bff" stroke-opacity="0.6"/>
+    <text x="213" y="256" text-anchor="middle" fill="#7da2ff">YOKI</text>
+    <rect x="274" y="236" width="178" height="30" rx="15" fill="#22c55e" fill-opacity="0.1" stroke="#22c55e" stroke-opacity="0.5"/>
+    <text x="363" y="256" text-anchor="middle" fill="#6ee7a0">SIGNALS RADAR</text>
+  </g>
+</svg>
