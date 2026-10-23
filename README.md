@@ -9,7 +9,7 @@
 
   <br /><br />
   <img alt="Surya Thakur, founder and digital marketer" width="120" src="https://github.com/SuryaThakur999.png" style="border-radius: 50%;" />
-  <h1><a href="https://github.com/SuryaThakur999"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=F5F5F5&center=true&vCenter=true&repeat=false&width=420&lines=Surya+Thakur" alt="Surya Thakur" /></a></h1>
+  <h1><a href="https://github.com/SuryaThakur999"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=100000&color=0E75B6&center=true&vCenter=true&repeat=false&width=420&lines=Surya+Thakur" alt="Surya Thakur" /></a></h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF5A1F&center=true&vCenter=true&width=720&lines=Founder+of+Dex+%C2%B7+Yoki;Marketer+who+scripts+the+funnel;SEO+%C2%B7+Landing+pages+%C2%B7+Newsletters;AI+agents+that+ship+the+work;Turning+visitors+into+signups" alt="Founder of Dex and Yoki, marketer who scripts the funnel, SEO, landing pages, AI agents" />
 </div>
 
