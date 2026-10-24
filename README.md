@@ -85,8 +85,8 @@ A free scraper with no API keys. It pulls GitHub Trending, Reddit, YouTube, the 
 
 | Project | What it does |
 |:---|:---|
+| **[CouchMode](https://github.com/SuryaThakur999/CouchMode)** | Paste one prompt and your AI agent turns an Android TV or projector into a home cinema: Apple TV-style home screen, debloat over Wi-Fi, PS5 on the wall. No root. |
 | **[Sift](https://github.com/SuryaThakur999/sift)** | Point it at any world (competitors, a market, a beat, a niche) and it sweeps every other morning into one skimmable dashboard with a trends tab. $0, no API keys. |
-| **[Projector-2030](https://github.com/SuryaThakur999/Projector-2030)** | An Apple TV-inspired home screen for Android TVs and projectors. Debloat over Wi-Fi, no root. |
 | **[KAIROS](https://github.com/SuryaThakur999/pmo-bot)** | A RACI deadline tracker that drafts your Outlook reminders and ranks the week on one local dashboard. |
 
 </div>
